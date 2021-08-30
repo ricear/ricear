@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hello there 👋
 
-<img src="media/header.png" alt="four boy playing ball on green grass" style="zoom:20%;" />
+<img src="media/header.png" alt="four boy playing ball on green grass" />
 
 I make elegantly professional **💻 Back-End Development and 🌐 Website** for a living and also **Take a prograph** 🌱and **Write some blogs**. 🌈    
 
@@ -43,4 +43,3 @@ I make elegantly professional **💻 Back-End Development and 🌐 Website** for
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=wpwbb510582246.wpwbb510582246" alt="visitor badge"/>       
 </p>
-
