@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![four boy playing ball on green grass](media/header.png)
+![img](media/header.png)
 
 I make elegantly professional **💻 Back-End Development and 🌐 Website** for a living and also **Take a prograph** 🌱and **Write some blogs**. 🌈    
 
