@@ -7,12 +7,10 @@ I make elegantly professional **💻 Back-End Development and 🌐 Website** for
 - 🧐   Interested in distributed system. Recent focus on backend.
 - 💼   Junior Back End Engineer.
 - 🎓   Master of Software Engineering.
-- 🌱   Currently learning Concurrent Programming & Netty & Spring.
+- 🎉   Currently learning Concurrent Programming & Netty & Spring.
 - 💻   With 4 years' information management and information system undergraduate education and 3 years' software engineering postgraduate education in progress.
 - ⛵   Encouraging people for open source collaborations.
 - ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://www.grayson.top) and take a photograph in [Unsplash](https://unsplash.com/@graysonwp).
-
-* 
 
 <details>
   <summary>Some other achievements about me~e~e</summary>
