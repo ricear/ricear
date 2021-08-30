@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![four boy playing ball on green grass](media/header.png)
+<img src="media/header.png" alt="four boy playing ball on green grass" style="zoom:40%;" />
 
 I make elegantly professional **💻 Back-End Development and 🌐 Website** for a living and also **Take a prograph** 🌱and **Write some blogs**. 🌈    
 
